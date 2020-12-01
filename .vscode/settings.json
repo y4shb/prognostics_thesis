@@ -1,4 +1,4 @@
 {
     "python.pythonPath": "/home/yash/miniconda3/envs/tf/bin/python",
-    "python.dataScience.jupyterServerURI": "local"
+    "jupyter.jupyterServerType": "local"
 }
