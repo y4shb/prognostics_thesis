@@ -1,6 +1,10 @@
 # Prognostics Modelling of Part Degradation using RNNs
+![Lines of code](https://img.shields.io/tokei/lines/github/cryozeus/prognostics_thesis?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/cryozeus/prognostics_thesis?style=for-the-badge)  
+
 
 by Yash Bhardwaj
+
 
 ## Aim
 
